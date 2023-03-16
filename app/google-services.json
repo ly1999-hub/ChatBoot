@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "820540648054",
+    "project_id": "chat-android-82340",
+    "storage_bucket": "chat-android-82340.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820540648054:android:e41dbe43a237a5e8284d57",
+        "android_client_info": {
+          "package_name": "com.teamone.chatboot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820540648054-4l4aad552raeoojk8rssfisg21l40a32.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClU9zQafiE4gOZIKWOzoYQY5Ea1outIE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820540648054-4l4aad552raeoojk8rssfisg21l40a32.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

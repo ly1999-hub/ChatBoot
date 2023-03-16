@@ -1,11 +1,9 @@
 package com.teamone.chatboot.activities;
 
-import static com.teamone.chatboot.R.*;
-
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.teamone.chatboot.databinding.ActivitySignInBinding;
 
@@ -24,5 +22,7 @@ public class SigninActivity extends AppCompatActivity {
     private void setListeners() {
         binding.textCreateNewAccount.setOnClickListener(v ->
                 startActivity(new Intent(getApplicationContext(), SignUpActivity.class)));
+
     }
+
 }
