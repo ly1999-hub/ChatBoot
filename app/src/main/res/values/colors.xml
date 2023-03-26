@@ -5,5 +5,6 @@
     <color name="secondary_text">#757575</color>
     <color name="white">#FFFFFF</color>
     <color name="input_background">#ECECEC</color>
+    <color name="error">#CF2D21</color>
 
 </resources>
