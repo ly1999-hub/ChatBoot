@@ -18,7 +18,7 @@ public class ChatActivity extends AppCompatActivity {
         binding=ActivityChatBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
         setListeners();
-        setContentView(R.layout.activity_chat);
+        loadReceiverDetail();
     }
 
     private void loadReceiverDetail(){

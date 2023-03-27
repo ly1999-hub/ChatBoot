@@ -13,6 +13,10 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ChatBoot"
         tools:targetApi="31">
+
+        <activity
+            android:name=".activities.ChatActivity"
+            android:windowSoftInputMode="adjustResize"/>
         <activity
             android:name=".activities.UsersActivity"
             android:exported="false" />
