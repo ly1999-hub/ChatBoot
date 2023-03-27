@@ -1,5 +1,7 @@
 package com.teamone.chatboot.listeners;
 
-public interface UserListener {
+import com.teamone.chatboot.models.User;
 
+public interface UserListener {
+    void onUserClicked(User user);
 }
